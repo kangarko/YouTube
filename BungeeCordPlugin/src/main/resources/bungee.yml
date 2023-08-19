@@ -1,0 +1,3 @@
+name: BungeeCordPlugin
+version: '${project.version}'
+main: org.mineacademy.bungeecordplugin.BungeeCordPlugin
