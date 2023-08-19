@@ -23,11 +23,13 @@ public final class BungeeCordPlugin extends Plugin {
 			System.out.println("Hey there");
 
 		}, 50, TimeUnit.MILLISECONDS);
+
+		getProxy().registerChannel("BungeeCord");
 	}
 
 	@Override
 	public void onDisable() {
-		// Plugin shutdown logic
+		getProxy().unregisterChannel("BungeeCord");
 	}
 
 	public static BungeeCordPlugin getInstance() {
