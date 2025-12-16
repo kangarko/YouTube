@@ -16,7 +16,7 @@ A Minecraft-style voxel engine written in Java using LWJGL and OpenGL 4.1.
 
 ## Requirements
 
-- Java 21
+- Java 25
 - Maven
 
 ## Setup
