@@ -1,0 +1,22 @@
+# Copyrighted assets
+src/main/resources/terrain.png
+
+# Build output
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+.settings/
+
+.project
+.classpath
