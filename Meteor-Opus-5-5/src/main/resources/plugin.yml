@@ -1,0 +1,17 @@
+name: ${project.name}
+version: ${project.version}
+main: ${main.class}
+author: ${author}
+description: Calls down a cinematic, fully reversible meteor strike.
+api-version: '1.13'
+
+commands:
+  meteor:
+    description: Call down a meteor on the block you are looking at.
+    usage: /meteor
+    permission: meteoropus.use
+
+permissions:
+  meteoropus.use:
+    description: Allows calling down a meteor strike.
+    default: op

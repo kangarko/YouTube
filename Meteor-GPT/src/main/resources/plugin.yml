@@ -1,0 +1,10 @@
+name: Meteor-GPT
+version: 1.0.0
+main: org.mineacademy.meteor.MeteorPlugin
+author: kangarko
+api-version: '1.13'
+description: A reversible cinematic elemental meteor strike.
+commands:
+    meteor:
+        description: Choose an element and summon a meteor where you look.
+        usage: /meteor
