@@ -1,0 +1,7 @@
+name: GUIMenus
+version: ${project.version}
+main: ${main.class}
+api-version: '26.3'
+commands:
+  testui:
+    description: Toggles the cursor UI test

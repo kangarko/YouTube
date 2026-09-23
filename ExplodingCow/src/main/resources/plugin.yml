@@ -1,0 +1,6 @@
+name: ExplodingCow
+version: '${version}'
+
+main: org.mineacademy.explodingcows.ExplodingCow
+api-version: '1.13'
+load: POSTWORLD
