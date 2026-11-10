@@ -7,17 +7,17 @@
 
 # Voxelcraft
 
-Legacy branch:
+[Legacy version](../Voxelcraft-Legacy):
 
 ![Day Demo](https://i.imgur.com/1Xj9NtK.jpeg)
 ![Night Demo](https://i.imgur.com/pleQdCy.jpeg)
 
-This branch:
+This version:
 ![Modern Demo](https://i.imgur.com/nu85QH0.jpeg)
 
 **READ SETUP INSTRUCTIONS FIRST TO GET THIS TO WORK**
 
-NOTICE: Check out the legacy branch which I demonstrated in the beginning of my YouTube video as it contains more features, albeit a completely different codebase because I started from scratch when I recorded the video. This codebase corresponds to what we built in it.
+NOTICE: Check out the [legacy version](../Voxelcraft-Legacy) which I demonstrated in the beginning of my YouTube video as it contains more features, albeit a completely different codebase because I started from scratch when I recorded the video. This codebase corresponds to what we built in it.
 
 A Minecraft-style voxel engine written in Java using LWJGL and OpenGL 4.1.
 

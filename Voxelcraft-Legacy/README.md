@@ -5,7 +5,7 @@
 
 **READ SETUP INSTRUCTIONS FIRST TO GET THIS TO WORK**
 
-This is the legacy branch. It took into a completely different direction than intended and took about 3-4 hours to make. I wanted to make something quicker for the YouTube video so I started from scratch on the other branch. It's also too bugged out for my taste.
+This is the legacy version. It took into a completely different direction than intended and took about 3-4 hours to make. I wanted to make something quicker for the YouTube video so I started from scratch in the [Voxelcraft](../Voxelcraft) folder. It's also too bugged out for my taste.
 
 A Minecraft-style voxel engine written in Java using LWJGL and OpenGL 4.1.
 
