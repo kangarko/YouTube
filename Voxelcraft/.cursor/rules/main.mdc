@@ -1,0 +1,11 @@
+---
+alwaysApply: true
+---
+
+You are creating a voxel game in Java 25 using Maven inspired by Minecraft using latest LWJGL and the highest OpenGL supported by on Macbook Pro M4.
+
+Make sure rendering works for both retina and non retina displays. Use OOP principles. Search web to learn new concepts.
+
+Use shaders for graphics rendering. I intend to make the game look photorealistic in terms of lightning, colors etc.
+
+Always run mvn clean install to ensure no compile errors when you are finished.
