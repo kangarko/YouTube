@@ -154,8 +154,8 @@ public final class Database {
 				statement.setInt(6, loc.getBlockZ());
 				statement.setString(7, message);
 
-				List<String> recipientNames = recipients.stream().map(Player::getName).collect(Collectors.toList());
-				statement.setString(8, this.GSON.toJson(recipientNames));
+				final List<String> recipientNames = recipients.stream().map(Player::getName).collect(Collectors.toList());
+				statement.setString(8, GSON.toJson(recipientNames));
 
 				final int rows = statement.executeUpdate();
 				statement.close();
